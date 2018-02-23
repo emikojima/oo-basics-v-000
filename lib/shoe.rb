@@ -1,6 +1,6 @@
 # Make your shoe class here!
 class Shoe 
-  attr_accessor :color
+  attr_accessor :color :size
   
   def initialize(brand)
     @brand = brand
@@ -9,4 +9,6 @@ class Shoe
   def brand
     @brand
   end
+  
+  @size = 9.5
 end
