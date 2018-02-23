@@ -10,5 +10,5 @@ class Shoe
     @brand
   end
   
- 
+ @shoe.condition = "tattered"
 end
