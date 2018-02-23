@@ -10,5 +10,5 @@ class Shoe
     @brand
   end
   
-  @size = 9.5
+ 
 end
